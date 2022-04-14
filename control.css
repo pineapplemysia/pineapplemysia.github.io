@@ -1,0 +1,102 @@
+header{
+    text-align: center;
+    background-image: url(dark_stripes_vertical_pattern_texture_50372_1600x900.jpg);
+}
+
+#wrapper{
+    width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+    background-color: #0a0707;
+	min-width: 900px;
+	max-width: 1280px;
+	box-shadow: 3px 3px 3px #666666;
+}
+
+nav{
+    background-image: url(dark_stripes_vertical_pattern_texture_50372_1600x900.jpg);
+    text-align: center;
+    padding: 1px;
+}
+
+body{
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(247, 241, 241);
+    background-color: #000000;
+}
+
+.p1{
+    text-align: center;
+}
+
+#under{
+    background-color: rgb(45, 42, 48);
+}
+footer {
+    font-style: italic;
+    color: rgb(247, 241, 241)
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #fcfcfce5;
+}
+
+a:visited {
+	color: #ffffff;
+}
+
+a:hover {
+	color: #eae0cd;
+}
+
+nav ul {
+	list-style-type: none; 
+}
+
+nav li { display: inline; 
+    margin-right: 50px;}
+
+#under a{
+    font-size: large;
+}
+#under{
+    padding: 1px;
+}
+
+main{
+    background-image: url(6216.jpg);
+}
+
+ul{
+    padding: 3px;
+    font-size: large;
+}
+
+#main1{
+    float: left;
+    padding-left: 40px;
+}
+#main2{
+    float: right;
+    padding-right: 40px;
+}
+
+#content{
+    background-image: url(QblYf5.jpg);
+}
+
+.Address{
+
+    float: left;
+    padding-left: 130px;
+    
+}
+
+#tel{
+    float: right;
+    padding-right: 130px;
+}
